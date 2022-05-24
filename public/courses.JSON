@@ -1,0 +1,74 @@
+[
+  {
+    "key": "lan01",
+    "name": "ENGLISH LEARNING",
+    "img": "https://bit.ly/39oat5C",
+    "price": 220
+  },
+  {
+    "key": "lan02",
+    "name": "GERMAN LEARNING",
+    "img": "https://bit.ly/37M2K0Q",
+    "price": 230
+  },
+  {
+    "key": "lan03",
+    "name": "FRENCH LEARNING",
+    "img": "https://bit.ly/3yBShQL",
+    "price": 240
+  },
+  {
+    "key": "lan04",
+    "name": "SPANISH LEARNING",
+    "img": "https://bit.ly/3LpfHLH",
+    "price": 250
+  },
+  {
+    "key": "lan05",
+    "name": "TURKISH LEARNING",
+    "img": "https://bit.ly/3NqF5lM",
+    "price": 260
+  },
+  {
+    "key": "lan06",
+    "name": "PORTUGUESE LEARNING",
+    "img": "https://bit.ly/3wES4uE",
+    "price": 270
+  },
+  {
+    "key": "lan07",
+    "name": "RUSSIAN LEARNING",
+    "img": "https://bit.ly/39S5kTW",
+    "price": 280
+  },
+  {
+    "key": "lan08",
+    "name": "LATIN LEARNING",
+    "img": "https://bit.ly/3lC3OaU",
+    "price": 290
+  },
+  {
+    "key": "lan09",
+    "name": "JAPANESE LEARNING",
+    "img": "https://bit.ly/3ajKA7J",
+    "price": 300
+  },
+  {
+    "key": "lan10",
+    "name": "DUTCH LEARNING",
+    "img": "https://bit.ly/3LA75C5",
+    "price": 310
+  },
+  {
+    "key": "lan11",
+    "name": "CINISE LEARNING",
+    "img": "https://bit.ly/3GaizLw",
+    "price": 320
+  },
+  {
+    "key": "lan012",
+    "name": "KOREAN  LEARNING",
+    "img": "https://bit.ly/3LF3u5U",
+    "price": 350
+  }
+]
